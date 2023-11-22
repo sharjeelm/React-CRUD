@@ -19,6 +19,7 @@ function Read({todos , setTodos , setOpen, setIsEdit ,  setCurrentTodo }) {
     }
     const deltHandler = (id) => {
         const newTodo = todos
+        
         newTodo.splice(id,1)
         setTodos([...newTodo])
         console.log("clicked")
