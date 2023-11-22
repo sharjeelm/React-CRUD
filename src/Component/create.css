@@ -1,0 +1,11 @@
+.form-heading-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ 
+}
+.cancel-icon{
+    color:red;
+    font-size: 30px;
+    cursor: pointer;
+}

@@ -1,0 +1,19 @@
+.inputs{
+    width: 100%;
+   margin-top: 10px;
+}
+.input-img-wrapper{
+    display: flex;
+    justify-content: center;
+}
+.input-img{
+    height: 100px;
+    margin: 5px;
+   
+}
+.read-table-btn{
+    margin: 5px;
+  }
+  .read-table-wrapper{
+    margin-top: 50px;
+  }
